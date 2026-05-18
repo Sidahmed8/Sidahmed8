@@ -242,11 +242,11 @@ I am especially interested in projects involving \*\*ETL pipelines, dashboards, 
 
 \- GitHub: \[github.com/Sidahmed8](https://github.com/Sidahmed8)
 
-\- LinkedIn: Add your LinkedIn link here
+\- LinkedIn: https://www.linkedin.com/in/sid-ahmed-emeihimid-7208002b3/
 
-\- Portfolio: Add your portfolio link here
+\- Portfolio: https://imaginative-cranachan-0ebae2.netlify.app/
 
-\- Email: Add your professional email here
+\- Email: Sidahmedahmedou0@gmail.com
 
 
 
