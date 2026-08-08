@@ -1,266 +1,137 @@
-\# Hi, I'm Sidahmed Ahmedou Emeihimid 👋
+# Hi, I'm Sidahmed Ahmedou Emeihimid 👋
 
+### Junior Data Scientist | Machine Learning & Data Engineering
 
-
-🎓 Master 2 student in \*\*Data Science \& Data Engineering\*\* at \*\*Université Mohammed V de Rabat\*\*  
-
-🔎 Looking for a \*\*2026 PFE internship\*\* or \*\*junior opportunity\*\* in \*\*Data Analysis, Data Engineering or Data Science\*\*  
+MSc graduate in **Data Science & Data Engineering** with a strong foundation in **Statistics and Applied Economics**. I build end-to-end data and AI solutions, from data preparation and statistical analysis to machine learning, APIs, deployment and automation.
 
 📍 Based in Rabat, Morocco  
+🌍 **Available immediately and open to international opportunities**  
+💼 Interested in **Data Science, Machine Learning, Applied AI and Data Engineering** roles
 
+---
 
+## 🚀 About Me
 
-\---
+My profile combines statistical thinking, machine learning and data engineering. I enjoy transforming complex data into reliable models, actionable insights and deployable solutions.
 
+- **Data Science:** EDA, feature engineering, statistical modeling, classification, regression, time-series analysis, model evaluation and interpretability
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, Deep Learning, NLP, Computer Vision, Transformers and mT5
+- **Data Engineering:** ETL pipelines, data warehouses, SQL/NoSQL databases and REST APIs
+- **BI & Visualization:** Power BI, Tableau, Matplotlib and Plotly
+- **Deployment & DevOps:** Flask, Streamlit, Docker, Kubernetes, GitLab CI/CD, Git and Linux
 
+---
 
-\## 🚀 About Me
+## 🧰 Technical Stack
 
+**Languages & Data**  
+`Python` `SQL` `R` `Pandas` `NumPy`
 
+**Machine Learning & AI**  
+`Scikit-learn` `TensorFlow` `Deep Learning` `NLP` `Computer Vision` `Transformers` `mT5` `SHAP`
 
-I am a Data Science \& Data Engineering student interested in building end-to-end data solutions: from data cleaning and analysis to machine learning, dashboards, APIs, deployment and automation.
+**Data Engineering & Databases**  
+`ETL` `PostgreSQL` `MySQL` `MongoDB` `Oracle` `REST APIs`
 
+**Visualization & BI**  
+`Power BI` `Tableau` `Matplotlib` `Plotly`
 
+**Deployment & DevOps**  
+`Flask` `Streamlit` `Docker` `Kubernetes` `GitLab CI/CD` `Git` `Linux`
 
-My profile combines:
+---
 
+## 🧠 Featured Projects
 
+### 🌡️ ThermoBreastAI — Breast Thermal Image Analysis
+Master's project focused on the development of a **research decision-support prototype** for breast thermal image analysis using Machine Learning, Deep Learning and Computer Vision.
 
-\- \*\*Data Analysis\*\*: EDA, data cleaning, statistical analysis, dashboards
+- Image preprocessing and feature extraction
+- Machine Learning and Deep Learning model comparison
+- Performance evaluation using Accuracy, Precision, Recall, F1-score and AUC
+- Interactive application development
+- Focus on model interpretability and rigorous evaluation
 
-\- \*\*Machine Learning\*\*: classification, regression, feature engineering, model evaluation
+**Tech:** Python, TensorFlow, Scikit-learn, CNN, Computer Vision, Streamlit  
+> Research prototype only — not a medical diagnostic system.
 
-\- \*\*NLP\*\*: Arabic text summarization, Transformers, mT5, ROUGE evaluation
+### 📝 Arabic Text Summarization with mT5
+Automatic Arabic text summarization using an extractive TF-IDF approach and an abstractive Transformer-based approach with mT5 fine-tuning and ROUGE evaluation.
 
-\- \*\*Data Engineering\*\*: ETL pipelines, data warehouse concepts, SQL databases, APIs
+**Tech:** Python, NLP, Transformers, mT5, TF-IDF
 
-\- \*\*DevOps for Data\*\*: Docker, Kubernetes, GitLab CI/CD, deployment workflows
+### 💳 Credit Risk Classification
+Machine Learning project for credit risk assessment with imbalanced data handling using SMOTE and model comparison based on Precision, Recall and F1-score.
 
+**Tech:** Python, Scikit-learn, SMOTE, Classification
 
+### 🏠 Real Estate Price Prediction API
+Regression pipeline with data cleaning, feature engineering, model comparison and a REST API for prediction.
 
-\---
+**Tech:** Python, Scikit-learn, Random Forest, Flask
 
+### 📈 Retail Sales Forecasting & Explainability
+Time-series and Machine Learning forecasting project with SHAP-based model interpretation.
 
+**Tech:** Python, Forecasting, Scikit-learn, SHAP
 
-\## 🧰 Tech Stack
+### ⚙️ DevOps & Kubernetes Pipeline
+CI/CD automation, Docker containerization and deployment of a three-tier application on Kubernetes.
 
+**Tech:** Docker, Kubernetes, GitLab CI/CD, Linux
 
+---
 
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+## 💼 Experience
 
-!\[SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+### ANSADE — Data Science Intern
+- Analyzed more than **10,000 socioeconomic and demographic observations**
+- Performed data cleaning, EDA, Chi-square tests and Multiple Correspondence Analysis
+- Developed a logistic regression model achieving **AUC = 0.70**
+- Applied Box-Jenkins methodology and ARIMA for time-series analysis
 
-!\[R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+### TAAZOUR — Data Analysis Intern
+- Structured and validated field survey data on access to essential services
+- Conducted urban/rural comparative analysis
+- Applied Chi-square tests, Cramér's V and Multiple Correspondence Analysis
+- Produced statistical indicators to support data interpretation
 
-!\[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+---
 
+## 🎓 Education
 
+**MSc in Data Science & Data Engineering**  
+Mohammed V University in Rabat — 2024–2026
 
-!\[Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+**Professional Bachelor's Degree in Statistics & Applied Economics**  
+Higher Polytechnic School of Nouakchott — 2021–2024
 
-!\[NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+---
 
-!\[Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+## 🎯 What I'm Looking For
 
-!\[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+I am open to opportunities where I can contribute to real-world projects in:
 
+- Data Science
+- Machine Learning
+- Applied Artificial Intelligence
+- Data Engineering
 
+I am particularly interested in roles where I can work across the full lifecycle of data and machine learning solutions — from data preparation and modeling to deployment and monitoring.
 
-!\[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+---
 
-!\[Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+## 📫 Contact
 
-!\[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+- **LinkedIn:** [Sidahmed Emeihimid](https://www.linkedin.com/in/sid-ahmed-emeihimid-7208002b3/)
+- **Portfolio:** [View my portfolio](https://imaginative-cranachan-0ebae2.netlify.app/)
+- **Email:** [sidahmedahmedou0@gmail.com](mailto:sidahmedahmedou0@gmail.com)
+- **GitHub:** [github.com/Sidahmed8](https://github.com/Sidahmed8)
 
-!\[Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+---
 
+## 📊 GitHub Stats
 
+![Sidahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidahmed8&show_icons=true&hide_border=true)
 
-!\[Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-!\[PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-!\[GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
-
-
-
-\---
-
-
-
-\## 📌 Featured Projects
-
-
-
-\### Credit Risk Classification with SMOTE and Model Optimization
-
-
-
-Machine learning project focused on credit risk prediction using imbalanced classification, SMOTE and model evaluation with Precision, Recall and F1-score.
-
-
-
-\*\*Tech:\*\* Python, Pandas, Scikit-learn, SMOTE, Machine Learning
-
-
-
-\---
-
-
-
-\### Real Estate Price Prediction API using Flask
-
-
-
-Regression project for predicting real estate prices, with a trained machine learning model exposed through a Flask REST API.
-
-
-
-\*\*Tech:\*\* Python, Scikit-learn, Flask, API, Regression
-
-
-
-\---
-
-
-
-\### Arabic Text Summarization using Transformers and mT5
-
-
-
-NLP project focused on automatic Arabic text summarization using Transformer-based models, fine-tuning and ROUGE evaluation.
-
-
-
-\*\*Tech:\*\* Python, NLP, Transformers, mT5, ROUGE
-
-
-
-\---
-
-
-
-\### Retail Sales Forecasting with SHAP Explainability
-
-
-
-Forecasting project for retail sales prediction using time series analysis, machine learning and SHAP model explainability.
-
-
-
-\*\*Tech:\*\* Python, ARIMA, Scikit-learn, SHAP, Forecasting
-
-
-
-\---
-
-
-
-\### DevOps Pipeline with Docker, GitLab CI/CD and Kubernetes
-
-
-
-End-to-end DevOps project showing application containerization, CI/CD automation and Kubernetes deployment.
-
-
-
-\*\*Tech:\*\* Docker, Kubernetes, GitLab CI/CD, YAML, Linux
-
-
-
-\---
-
-
-
-\## 💼 Experience Highlights
-
-
-
-\### ANSADE — Data Analysis Intern
-
-
-
-\- Analyzed fertility determinants using R and Stata
-
-\- Performed EDA, Chi-square tests, MCA and logistic regression
-
-\- Evaluated model performance with AUC = 0.70
-
-\- Applied ARIMA for forecasting analysis
-
-
-
-\### TAAZOUR — Data Analysis Intern
-
-
-
-\- Conducted urban/rural comparative analysis
-
-\- Worked with field survey data and social indicators
-
-\- Applied Chi-square tests, Cramer’s V and MCA
-
-\- Produced statistical and socio-economic insights
-
-
-
-\---
-
-
-
-\## 🎯 Career Objective
-
-
-
-I am currently looking for a \*\*2026 PFE internship\*\* or \*\*junior role\*\* in:
-
-
-
-\- Data Analysis
-
-\- Data Engineering
-
-\- Data Science
-
-\- Machine Learning
-
-\- Business Intelligence
-
-
-
-I am especially interested in projects involving \*\*ETL pipelines, dashboards, predictive modeling, NLP, APIs and deployment\*\*.
-
-
-
-\---
-
-
-
-\## 📫 Contact
-
-
-
-\- GitHub: \[github.com/Sidahmed8](https://github.com/Sidahmed8)
-
-\- LinkedIn: https://www.linkedin.com/in/sid-ahmed-emeihimid-7208002b3/
-
-\- Portfolio: https://imaginative-cranachan-0ebae2.netlify.app/
-
-\- Email: Sidahmedahmedou0@gmail.com
-
-
-
-\---
-
-
-
-\## 📊 GitHub Stats
-
-
-
-!\[Sidahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidahmed8\&show\_icons=true\&theme=github\_dark)
-
-
-
-!\[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidahmed8\&layout=compact\&theme=github\_dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidahmed8&layout=compact&hide_border=true)
