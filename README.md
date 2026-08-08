@@ -43,7 +43,7 @@ My profile combines statistical thinking, machine learning and data engineering.
 
 ## 🧠 Featured Projects
 
-### 🌡️ ThermoBreastAI — Breast Thermal Image Analysis
+### 🌡️ [ThermoBreastAI — Breast Thermal Image Analysis](https://github.com/Sidahmed8/ThermoBreastAI)
 Master's project focused on the development of a **research decision-support prototype** for breast thermal image analysis using Machine Learning, Deep Learning and Computer Vision.
 
 - Image preprocessing and feature extraction
@@ -55,22 +55,22 @@ Master's project focused on the development of a **research decision-support pro
 **Tech:** Python, TensorFlow, Scikit-learn, CNN, Computer Vision, Streamlit  
 > Research prototype only — not a medical diagnostic system.
 
-### 📝 Arabic Text Summarization with mT5
+### 📝 [Arabic Text Summarization with mT5](https://github.com/Sidahmed8/arabic-text-summarization-mt5)
 Automatic Arabic text summarization using an extractive TF-IDF approach and an abstractive Transformer-based approach with mT5 fine-tuning and ROUGE evaluation.
 
 **Tech:** Python, NLP, Transformers, mT5, TF-IDF
 
-### 💳 Credit Risk Classification
+### 💳 [Credit Risk Classification](https://github.com/Sidahmed8/credit-risk-ml-smote)
 Machine Learning project for credit risk assessment with imbalanced data handling using SMOTE and model comparison based on Precision, Recall and F1-score.
 
 **Tech:** Python, Scikit-learn, SMOTE, Classification
 
-### 🏠 Real Estate Price Prediction API
+### 🏠 [Real Estate Price Prediction API](https://github.com/Sidahmed8/real-estate-price-prediction-api)
 Regression pipeline with data cleaning, feature engineering, model comparison and a REST API for prediction.
 
 **Tech:** Python, Scikit-learn, Random Forest, Flask
 
-### 📈 Retail Sales Forecasting & Explainability
+### 📈 [Retail Sales Forecasting & Explainability](https://github.com/Sidahmed8/retail-sales-forecasting-shap)
 Time-series and Machine Learning forecasting project with SHAP-based model interpretation.
 
 **Tech:** Python, Forecasting, Scikit-learn, SHAP
