@@ -123,7 +123,7 @@ I am particularly interested in roles where I can work across the full lifecycle
 
 ## 📫 Contact
 
-- **LinkedIn:** [Sidahmed Emeihimid](https://www.linkedin.com/in/sid-ahmed-emeihimid-7208002b3/)
+- **LinkedIn:** [Sidahmed Emeihimid](https://www.linkedin.com/in/sidahmed-emeihimid-7208002b3/)
 - **Portfolio:** [View my portfolio](https://imaginative-cranachan-0ebae2.netlify.app/)
 - **Email:** [sidahmedahmedou0@gmail.com](mailto:sidahmedahmedou0@gmail.com)
 - **GitHub:** [github.com/Sidahmed8](https://github.com/Sidahmed8)
